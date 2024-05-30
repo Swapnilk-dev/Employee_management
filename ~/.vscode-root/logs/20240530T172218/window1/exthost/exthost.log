@@ -27,3 +27,12 @@
     at processTimers (node:internal/timers:512:7)
 2024-05-30 17:42:48.356 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1849
 2024-05-30 17:42:48.645 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1849
+2024-05-30 17:47:17.129 [error] TypeError: Cannot read properties of undefined (reading 'document')
+    at Timeout._onTimeout (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:793:38)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-05-30 17:50:55.949 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1850
+2024-05-30 18:01:07.959 [error] TypeError: Cannot read properties of undefined (reading 'document')
+    at Timeout._onTimeout (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:793:38)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
