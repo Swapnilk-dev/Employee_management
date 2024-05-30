@@ -1,0 +1,438 @@
+2024-05-30 15:57:19.148 [info] Log level: Info
+2024-05-30 15:57:19.148 [info] Validating found git in: "git"
+2024-05-30 15:57:19.148 [info] Using git "2.25.1" from "git"
+2024-05-30 15:57:19.148 [info] > git rev-parse --show-toplevel [35ms]
+2024-05-30 15:57:19.148 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 15:57:19.148 [info] > git rev-parse --show-toplevel [17ms]
+2024-05-30 15:57:19.148 [info] > git rev-parse --git-dir --git-common-dir [262ms]
+2024-05-30 15:57:19.148 [info] Open repository: /home/swap/Desktop/employee-management/employee-management-frontend
+2024-05-30 15:57:19.280 [info] > git rev-parse --show-toplevel [50ms]
+2024-05-30 15:57:19.280 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 15:57:19.281 [info] > git config --get commit.template [86ms]
+2024-05-30 15:57:19.304 [info] No remotes found in the git config file.
+2024-05-30 15:57:19.315 [info] > git rev-parse --show-toplevel [23ms]
+2024-05-30 15:57:19.315 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 15:57:19.320 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2024-05-30 15:57:19.377 [info] > git status -z -uall [15ms]
+2024-05-30 15:57:19.482 [info] > git config --get commit.template [32ms]
+2024-05-30 15:57:19.540 [info] No remotes found in the git config file.
+2024-05-30 15:57:19.578 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [38ms]
+2024-05-30 15:57:19.610 [info] > git status -z -uall [16ms]
+2024-05-30 15:57:20.239 [info] > git check-ignore -v -z --stdin [5ms]
+2024-05-30 15:57:21.158 [info] > git rev-parse --show-toplevel [137ms]
+2024-05-30 15:57:21.158 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 15:57:22.074 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-30 15:57:22.074 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 15:57:22.395 [info] > git show --textconv :src/app/app.component.ts [43ms]
+2024-05-30 15:57:22.448 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/app.component.ts [59ms]
+2024-05-30 15:57:22.475 [info] > git cat-file -s 6494929b066a71854bd0de85bdfefff3f90b6596 [4ms]
+2024-05-30 15:57:25.643 [info] > git rev-parse --show-toplevel [10ms]
+2024-05-30 15:57:25.643 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 15:57:29.884 [info] > git show --textconv :src/app/app-routing.module.ts [30ms]
+2024-05-30 15:57:29.889 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/app-routing.module.ts [7ms]
+2024-05-30 15:57:29.915 [info] > git cat-file -s 02972627f8df364102ce4ede71c8bd5f3660e1d8 [12ms]
+2024-05-30 15:57:30.335 [info] > git rev-parse --show-toplevel [15ms]
+2024-05-30 15:57:30.335 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 15:57:31.467 [info] > git rev-parse --show-toplevel [31ms]
+2024-05-30 15:57:31.469 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 15:57:34.276 [info] > git rev-parse --show-toplevel [10ms]
+2024-05-30 15:57:34.276 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 15:57:38.352 [info] > git rev-parse --show-toplevel [8ms]
+2024-05-30 15:57:38.352 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 15:57:49.009 [info] > git rev-parse --show-toplevel [17ms]
+2024-05-30 15:57:49.009 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 15:58:00.247 [info] > git show --textconv :src/app/services/employee.service.ts [11ms]
+2024-05-30 15:58:00.250 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [4ms]
+2024-05-30 15:58:00.734 [info] > git check-ignore -v -z --stdin [3ms]
+2024-05-30 15:58:03.462 [info] > git show --textconv :src/app/services/employee.model.ts [11ms]
+2024-05-30 15:58:03.463 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.model.ts [2ms]
+2024-05-30 15:58:04.794 [info] > git show --textconv :src/app/services/employee.service.ts [10ms]
+2024-05-30 15:58:04.795 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [2ms]
+2024-05-30 15:58:30.858 [info] No remotes found in the git config file.
+2024-05-30 15:58:30.860 [info] > git config --get commit.template [10ms]
+2024-05-30 15:58:30.860 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-30 15:58:30.872 [info] > git status -z -uall [5ms]
+2024-05-30 15:59:05.554 [info] No remotes found in the git config file.
+2024-05-30 15:59:05.555 [info] > git config --get commit.template [9ms]
+2024-05-30 15:59:05.556 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-30 15:59:05.564 [info] > git status -z -uall [2ms]
+2024-05-30 15:59:14.711 [info] > git rev-parse --show-toplevel [9ms]
+2024-05-30 15:59:14.711 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 15:59:21.167 [info] > git rev-parse --show-toplevel [11ms]
+2024-05-30 15:59:21.169 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 15:59:28.181 [info] > git show --textconv :src/app/components/employee-create/employee-create.component.ts [26ms]
+2024-05-30 15:59:28.194 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-create/employee-create.component.ts [14ms]
+2024-05-30 15:59:28.729 [info] > git check-ignore -v -z --stdin [1ms]
+2024-05-30 15:59:30.935 [info] > git rev-parse --show-toplevel [8ms]
+2024-05-30 15:59:30.936 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 15:59:39.653 [info] > git rev-parse --show-toplevel [35ms]
+2024-05-30 15:59:39.654 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 15:59:49.564 [info] > git show --textconv :src/app/services/employee.service.ts [8ms]
+2024-05-30 15:59:49.567 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [3ms]
+2024-05-30 15:59:50.830 [info] > git rev-parse --show-toplevel [5ms]
+2024-05-30 15:59:50.830 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 15:59:55.703 [info] > git show --textconv :src/app/services/employee.service.ts [20ms]
+2024-05-30 15:59:55.706 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [5ms]
+2024-05-30 16:00:08.889 [info] > git config --get commit.template [3ms]
+2024-05-30 16:00:08.900 [info] No remotes found in the git config file.
+2024-05-30 16:00:08.903 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-30 16:00:08.916 [info] > git status -z -uall [5ms]
+2024-05-30 16:00:17.662 [info] No remotes found in the git config file.
+2024-05-30 16:00:17.667 [info] > git config --get commit.template [16ms]
+2024-05-30 16:00:17.668 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-05-30 16:00:17.687 [info] > git status -z -uall [8ms]
+2024-05-30 16:02:09.514 [info] No remotes found in the git config file.
+2024-05-30 16:02:09.535 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [27ms]
+2024-05-30 16:02:09.538 [info] > git config --get commit.template [47ms]
+2024-05-30 16:02:09.562 [info] > git status -z -uall [13ms]
+2024-05-30 16:02:10.552 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [16ms]
+2024-05-30 16:02:10.565 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [14ms]
+2024-05-30 16:02:10.999 [info] > git check-ignore -v -z --stdin [4ms]
+2024-05-30 16:02:14.585 [info] No remotes found in the git config file.
+2024-05-30 16:02:14.586 [info] > git config --get commit.template [10ms]
+2024-05-30 16:02:14.588 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-30 16:02:14.595 [info] > git status -z -uall [2ms]
+2024-05-30 16:02:20.993 [info] > git show --textconv :src/app/services/employee.service.ts [13ms]
+2024-05-30 16:02:21.005 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [13ms]
+2024-05-30 16:02:29.407 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [13ms]
+2024-05-30 16:02:29.413 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [9ms]
+2024-05-30 16:02:45.649 [info] No remotes found in the git config file.
+2024-05-30 16:02:45.652 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-30 16:02:45.653 [info] > git config --get commit.template [12ms]
+2024-05-30 16:02:45.679 [info] > git status -z -uall [1ms]
+2024-05-30 16:02:49.771 [info] > git show --textconv :src/app/services/employee.service.ts [114ms]
+2024-05-30 16:02:49.772 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [65ms]
+2024-05-30 16:02:50.710 [info] No remotes found in the git config file.
+2024-05-30 16:02:50.711 [info] > git config --get commit.template [8ms]
+2024-05-30 16:02:50.713 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-30 16:02:50.724 [info] > git status -z -uall [4ms]
+2024-05-30 16:02:57.082 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [7ms]
+2024-05-30 16:02:57.084 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [3ms]
+2024-05-30 16:03:25.335 [info] > git show --textconv :src/app/services/employee.service.ts [23ms]
+2024-05-30 16:03:25.338 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [15ms]
+2024-05-30 16:03:43.881 [info] No remotes found in the git config file.
+2024-05-30 16:03:43.882 [info] > git config --get commit.template [15ms]
+2024-05-30 16:03:43.890 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2024-05-30 16:03:43.918 [info] > git status -z -uall [21ms]
+2024-05-30 16:03:44.886 [info] > git rev-parse --show-toplevel [42ms]
+2024-05-30 16:03:44.886 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:03:46.410 [info] > git rev-parse --show-toplevel [9ms]
+2024-05-30 16:03:46.410 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:03:48.940 [info] No remotes found in the git config file.
+2024-05-30 16:03:48.943 [info] > git config --get commit.template [11ms]
+2024-05-30 16:03:48.945 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-30 16:03:48.963 [info] > git status -z -uall [8ms]
+2024-05-30 16:04:07.133 [info] > git show --textconv :src/app/services/employee.service.ts [16ms]
+2024-05-30 16:04:07.136 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [14ms]
+2024-05-30 16:04:15.320 [info] > git rev-parse --show-toplevel [10ms]
+2024-05-30 16:04:15.320 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:04:18.639 [info] > git rev-parse --show-toplevel [9ms]
+2024-05-30 16:04:18.639 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:04:29.352 [info] > git show --textconv :src/app/services/employee.service.ts [51ms]
+2024-05-30 16:04:29.393 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [44ms]
+2024-05-30 16:04:32.631 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [21ms]
+2024-05-30 16:04:32.650 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [20ms]
+2024-05-30 16:05:27.214 [info] No remotes found in the git config file.
+2024-05-30 16:05:27.253 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [40ms]
+2024-05-30 16:05:27.254 [info] > git config --get commit.template [51ms]
+2024-05-30 16:05:27.274 [info] > git status -z -uall [11ms]
+2024-05-30 16:05:29.526 [info] > git show --textconv :src/app/services/employee.service.ts [7ms]
+2024-05-30 16:05:29.536 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [11ms]
+2024-05-30 16:05:32.295 [info] No remotes found in the git config file.
+2024-05-30 16:05:32.296 [info] > git config --get commit.template [10ms]
+2024-05-30 16:05:32.297 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-30 16:05:32.304 [info] > git status -z -uall [3ms]
+2024-05-30 16:05:37.519 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-30 16:05:37.520 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:05:49.351 [info] > git show --textconv :src/app/services/employee.service.ts [9ms]
+2024-05-30 16:05:49.353 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [3ms]
+2024-05-30 16:05:51.684 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [36ms]
+2024-05-30 16:05:51.718 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [37ms]
+2024-05-30 16:07:41.199 [info] > git show --textconv :src/app/services/employee.service.ts [12ms]
+2024-05-30 16:07:41.204 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [6ms]
+2024-05-30 16:08:17.991 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-30 16:08:17.991 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:08:56.888 [info] > git show --textconv :src/app/services/employee.service.ts [12ms]
+2024-05-30 16:08:56.890 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [3ms]
+2024-05-30 16:09:03.624 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [50ms]
+2024-05-30 16:09:03.636 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [21ms]
+2024-05-30 16:09:20.879 [info] No remotes found in the git config file.
+2024-05-30 16:09:20.881 [info] > git config --get commit.template [10ms]
+2024-05-30 16:09:20.896 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [18ms]
+2024-05-30 16:09:20.912 [info] > git status -z -uall [5ms]
+2024-05-30 16:09:25.938 [info] No remotes found in the git config file.
+2024-05-30 16:09:25.941 [info] > git config --get commit.template [13ms]
+2024-05-30 16:09:25.946 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2024-05-30 16:09:25.964 [info] > git status -z -uall [5ms]
+2024-05-30 16:09:35.402 [info] > git show --textconv :src/app/services/employee.service.ts [9ms]
+2024-05-30 16:09:35.404 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [2ms]
+2024-05-30 16:09:36.509 [info] > git rev-parse --show-toplevel [5ms]
+2024-05-30 16:09:36.509 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:09:37.986 [info] > git rev-parse --show-toplevel [9ms]
+2024-05-30 16:09:37.987 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:09:39.441 [info] > git show --textconv :src/app/services/employee.service.ts [6ms]
+2024-05-30 16:09:39.443 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [2ms]
+2024-05-30 16:09:42.155 [info] > git rev-parse --show-toplevel [8ms]
+2024-05-30 16:09:42.156 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:09:44.229 [info] > git rev-parse --show-toplevel [8ms]
+2024-05-30 16:09:44.229 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:09:45.324 [info] > git show --textconv :src/app/services/employee.service.ts [16ms]
+2024-05-30 16:09:45.326 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [3ms]
+2024-05-30 16:09:46.298 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [10ms]
+2024-05-30 16:09:46.299 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [3ms]
+2024-05-30 16:09:47.643 [info] > git rev-parse --show-toplevel [11ms]
+2024-05-30 16:09:47.644 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:09:53.256 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [70ms]
+2024-05-30 16:09:53.256 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [3ms]
+2024-05-30 16:09:55.491 [info] > git rev-parse --show-toplevel [17ms]
+2024-05-30 16:09:55.491 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:09:55.781 [info] > git rev-parse --show-toplevel [5ms]
+2024-05-30 16:09:55.781 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:28:43.315 [info] > git rev-parse --show-toplevel [14ms]
+2024-05-30 16:28:43.316 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:28:55.978 [info] > git rev-parse --show-toplevel [10ms]
+2024-05-30 16:28:55.978 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:29:00.406 [info] > git rev-parse --show-toplevel [5ms]
+2024-05-30 16:29:00.407 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:29:01.693 [info] > git rev-parse --show-toplevel [10ms]
+2024-05-30 16:29:01.693 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:29:02.985 [info] > git show --textconv :src/app/services/employee.service.ts [11ms]
+2024-05-30 16:29:02.987 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [5ms]
+2024-05-30 16:29:03.694 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-30 16:29:03.694 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:29:05.009 [info] > git show --textconv :src/app/services/employee.service.ts [10ms]
+2024-05-30 16:29:05.010 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [3ms]
+2024-05-30 16:29:21.303 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [10ms]
+2024-05-30 16:29:21.305 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [4ms]
+2024-05-30 16:29:23.205 [info] > git show --textconv :src/app/services/employee.service.ts [10ms]
+2024-05-30 16:29:23.208 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [4ms]
+2024-05-30 16:29:25.826 [info] > git rev-parse --show-toplevel [8ms]
+2024-05-30 16:29:25.826 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:29:28.388 [info] > git show --textconv :src/app/services/employee.service.ts [132ms]
+2024-05-30 16:29:28.440 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [119ms]
+2024-05-30 16:29:30.382 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-30 16:29:30.382 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:29:38.676 [info] > git rev-parse --show-toplevel [180ms]
+2024-05-30 16:29:38.679 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:29:44.488 [info] > git rev-parse --show-toplevel [8ms]
+2024-05-30 16:29:44.488 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:29:51.064 [info] > git show --textconv :src/app/services/employee.service.ts [20ms]
+2024-05-30 16:29:51.070 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [7ms]
+2024-05-30 16:30:00.935 [info] > git rev-parse --show-toplevel [6ms]
+2024-05-30 16:30:00.936 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:30:04.568 [info] > git show --textconv :src/app/services/employee.service.ts [131ms]
+2024-05-30 16:30:04.609 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [45ms]
+2024-05-30 16:30:17.306 [info] > git rev-parse --show-toplevel [8ms]
+2024-05-30 16:30:17.306 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:30:19.891 [info] > git rev-parse --show-toplevel [22ms]
+2024-05-30 16:30:19.891 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:30:28.522 [info] > git show --textconv :src/app/services/employee.service.ts [44ms]
+2024-05-30 16:30:28.543 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [26ms]
+2024-05-30 16:30:29.071 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [9ms]
+2024-05-30 16:30:29.072 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [2ms]
+2024-05-30 16:30:34.701 [info] No remotes found in the git config file.
+2024-05-30 16:30:34.702 [info] > git config --get commit.template [15ms]
+2024-05-30 16:30:34.702 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-30 16:30:34.727 [info] > git status -z -uall [18ms]
+2024-05-30 16:30:34.731 [info] > git rev-parse --show-toplevel [6ms]
+2024-05-30 16:30:34.731 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:31:02.558 [info] > git config --get commit.template [4ms]
+2024-05-30 16:31:02.566 [info] No remotes found in the git config file.
+2024-05-30 16:31:02.568 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-30 16:31:02.582 [info] > git status -z -uall [6ms]
+2024-05-30 16:31:02.859 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [8ms]
+2024-05-30 16:31:02.866 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [7ms]
+2024-05-30 16:31:03.659 [info] > git show --textconv :src/app/services/employee.service.ts [9ms]
+2024-05-30 16:31:03.661 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [2ms]
+2024-05-30 16:31:04.214 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-30 16:31:04.214 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:31:06.686 [info] > git rev-parse --show-toplevel [5ms]
+2024-05-30 16:31:06.687 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:31:12.368 [info] > git show --textconv :src/app/services/employee.service.ts [8ms]
+2024-05-30 16:31:12.370 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [3ms]
+2024-05-30 16:31:13.671 [info] > git rev-parse --show-toplevel [6ms]
+2024-05-30 16:31:13.672 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:31:20.476 [info] > git show --textconv :src/app/services/employee.service.ts [12ms]
+2024-05-30 16:31:20.478 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [3ms]
+2024-05-30 16:31:24.574 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-30 16:31:24.574 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:31:27.953 [info] > git rev-parse --show-toplevel [12ms]
+2024-05-30 16:31:27.954 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:31:45.339 [info] > git show --textconv :src/app/services/employee.service.ts [16ms]
+2024-05-30 16:31:45.341 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [3ms]
+2024-05-30 16:31:46.274 [info] > git rev-parse --show-toplevel [9ms]
+2024-05-30 16:31:46.274 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:33:04.632 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [68ms]
+2024-05-30 16:33:04.645 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [58ms]
+2024-05-30 16:33:27.562 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.html [23ms]
+2024-05-30 16:33:27.569 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.html [8ms]
+2024-05-30 16:33:30.146 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [16ms]
+2024-05-30 16:33:30.152 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [8ms]
+2024-05-30 16:33:36.914 [info] > git show --textconv :src/app/services/employee.service.ts [36ms]
+2024-05-30 16:33:36.918 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [20ms]
+2024-05-30 16:33:41.799 [info] > git rev-parse --show-toplevel [6ms]
+2024-05-30 16:33:41.799 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:33:46.784 [info] > git rev-parse --show-toplevel [10ms]
+2024-05-30 16:33:46.784 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:34:02.350 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.html [13ms]
+2024-05-30 16:34:02.353 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.html [4ms]
+2024-05-30 16:35:01.139 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [14ms]
+2024-05-30 16:35:01.145 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [9ms]
+2024-05-30 16:35:47.068 [info] > git show --textconv :src/app/services/employee.service.ts [13ms]
+2024-05-30 16:35:47.073 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [8ms]
+2024-05-30 16:36:18.549 [info] > git rev-parse --show-toplevel [9ms]
+2024-05-30 16:36:18.550 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:37:54.590 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-30 16:37:54.590 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:38:50.619 [info] > git rev-parse --show-toplevel [12ms]
+2024-05-30 16:38:50.619 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:39:14.328 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [27ms]
+2024-05-30 16:39:14.328 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [9ms]
+2024-05-30 16:39:19.750 [info] > git show --textconv :src/app/services/employee.service.ts [6ms]
+2024-05-30 16:39:19.752 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [1ms]
+2024-05-30 16:39:26.804 [info] No remotes found in the git config file.
+2024-05-30 16:39:26.806 [info] > git config --get commit.template [11ms]
+2024-05-30 16:39:26.810 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-05-30 16:39:26.819 [info] > git status -z -uall [3ms]
+2024-05-30 16:39:36.352 [info] > git config --get commit.template [7ms]
+2024-05-30 16:39:36.364 [info] No remotes found in the git config file.
+2024-05-30 16:39:36.367 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-30 16:39:36.380 [info] > git status -z -uall [4ms]
+2024-05-30 16:39:36.673 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [8ms]
+2024-05-30 16:39:36.675 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [3ms]
+2024-05-30 16:39:43.716 [info] No remotes found in the git config file.
+2024-05-30 16:39:43.717 [info] > git config --get commit.template [10ms]
+2024-05-30 16:39:43.718 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-30 16:39:43.730 [info] > git status -z -uall [5ms]
+2024-05-30 16:39:52.413 [info] No remotes found in the git config file.
+2024-05-30 16:39:52.414 [info] > git config --get commit.template [13ms]
+2024-05-30 16:39:52.418 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-05-30 16:39:52.434 [info] > git status -z -uall [6ms]
+2024-05-30 16:39:52.527 [info] > git rev-parse --show-toplevel [13ms]
+2024-05-30 16:39:52.527 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:41:50.342 [info] > git show --textconv :src/app/services/employee.service.ts [14ms]
+2024-05-30 16:41:50.349 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [9ms]
+2024-05-30 16:41:51.501 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-30 16:41:51.501 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:44:16.878 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [22ms]
+2024-05-30 16:44:16.899 [info] > git show --textconv :src/app/services/employee.service.ts [68ms]
+2024-05-30 16:44:33.788 [info] > git rev-parse --show-toplevel [120ms]
+2024-05-30 16:44:33.802 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:44:38.826 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-30 16:44:38.826 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:44:51.774 [info] > git rev-parse --show-toplevel [6ms]
+2024-05-30 16:44:51.774 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:44:55.480 [info] > git rev-parse --show-toplevel [12ms]
+2024-05-30 16:44:55.480 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:45:00.987 [info] > git show --textconv :src/app/services/employee.service.ts [55ms]
+2024-05-30 16:45:01.043 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [65ms]
+2024-05-30 16:45:01.551 [info] > git rev-parse --show-toplevel [25ms]
+2024-05-30 16:45:01.552 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:45:02.682 [info] > git rev-parse --show-toplevel [8ms]
+2024-05-30 16:45:02.688 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:45:24.420 [info] > git show --textconv :src/app/app.module.ts [39ms]
+2024-05-30 16:45:24.455 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/app.module.ts [40ms]
+2024-05-30 16:45:24.521 [info] > git cat-file -s b1c6c96a9de8f091f39b3b8feb7e29cfcfb1ed81 [20ms]
+2024-05-30 16:45:28.784 [info] > git show --textconv :src/app/app.component.ts [8ms]
+2024-05-30 16:45:28.786 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/app.component.ts [3ms]
+2024-05-30 16:45:28.792 [info] > git cat-file -s 6494929b066a71854bd0de85bdfefff3f90b6596 [2ms]
+2024-05-30 16:45:31.452 [info] > git show --textconv :src/app/app-routing.module.ts [67ms]
+2024-05-30 16:45:31.465 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/app-routing.module.ts [15ms]
+2024-05-30 16:45:31.537 [info] > git cat-file -s 02972627f8df364102ce4ede71c8bd5f3660e1d8 [29ms]
+2024-05-30 16:50:56.828 [info] > git rev-parse --show-toplevel [16ms]
+2024-05-30 16:50:56.828 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:50:58.246 [info] > git rev-parse --show-toplevel [5ms]
+2024-05-30 16:50:58.246 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:52:42.770 [info] > git show --textconv :src/app/services/employee.service.ts [28ms]
+2024-05-30 16:52:42.777 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [8ms]
+2024-05-30 16:52:44.511 [info] > git rev-parse --show-toplevel [5ms]
+2024-05-30 16:52:44.512 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:52:46.628 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-30 16:52:46.628 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:53:22.107 [info] > git rev-parse --show-toplevel [7ms]
+2024-05-30 16:53:22.107 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:53:30.059 [info] > git rev-parse --show-toplevel [7ms]
+2024-05-30 16:53:30.059 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:53:32.178 [info] > git show --textconv :src/app/services/employee.service.ts [14ms]
+2024-05-30 16:53:32.187 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts [15ms]
+2024-05-30 16:53:40.799 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [28ms]
+2024-05-30 16:53:40.822 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [24ms]
+2024-05-30 16:53:41.694 [info] No remotes found in the git config file.
+2024-05-30 16:53:41.695 [info] > git config --get commit.template [8ms]
+2024-05-30 16:53:41.699 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-05-30 16:53:41.710 [info] > git status -z -uall [4ms]
+2024-05-30 16:53:46.729 [info] No remotes found in the git config file.
+2024-05-30 16:53:46.731 [info] > git config --get commit.template [9ms]
+2024-05-30 16:53:46.732 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-30 16:53:46.742 [info] > git status -z -uall [4ms]
+2024-05-30 16:53:51.811 [info] No remotes found in the git config file.
+2024-05-30 16:53:51.812 [info] > git config --get commit.template [39ms]
+2024-05-30 16:53:51.820 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2024-05-30 16:53:51.833 [info] > git status -z -uall [5ms]
+2024-05-30 16:53:58.040 [info] No remotes found in the git config file.
+2024-05-30 16:53:58.041 [info] > git config --get commit.template [9ms]
+2024-05-30 16:53:58.042 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-30 16:53:58.052 [info] > git status -z -uall [2ms]
+2024-05-30 16:54:01.300 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.html [11ms]
+2024-05-30 16:54:01.302 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.html [5ms]
+2024-05-30 16:54:03.065 [info] No remotes found in the git config file.
+2024-05-30 16:54:03.077 [info] > git config --get commit.template [13ms]
+2024-05-30 16:54:03.079 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-30 16:54:03.095 [info] > git status -z -uall [5ms]
+2024-05-30 16:54:08.120 [info] No remotes found in the git config file.
+2024-05-30 16:54:08.121 [info] > git config --get commit.template [10ms]
+2024-05-30 16:54:08.123 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-30 16:54:08.136 [info] > git status -z -uall [5ms]
+2024-05-30 16:54:14.041 [info] No remotes found in the git config file.
+2024-05-30 16:54:14.042 [info] > git config --get commit.template [9ms]
+2024-05-30 16:54:14.044 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-30 16:54:14.053 [info] > git status -z -uall [3ms]
+2024-05-30 16:54:16.028 [info] > git rev-parse --show-toplevel [8ms]
+2024-05-30 16:54:16.029 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:54:19.074 [info] No remotes found in the git config file.
+2024-05-30 16:54:19.076 [info] > git config --get commit.template [10ms]
+2024-05-30 16:54:19.077 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-30 16:54:19.088 [info] > git status -z -uall [4ms]
+2024-05-30 16:54:25.507 [info] > git rev-parse --show-toplevel [16ms]
+2024-05-30 16:54:25.507 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:55:10.239 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.html [13ms]
+2024-05-30 16:55:10.242 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.html [4ms]
+2024-05-30 16:55:10.600 [info] > git rev-parse --show-toplevel [7ms]
+2024-05-30 16:55:10.600 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-30 16:55:15.089 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.ts [34ms]
+2024-05-30 16:55:15.098 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts [14ms]
+2024-05-30 16:55:15.440 [info] > git show --textconv :src/app/components/employee-list/employee-list.component.html [12ms]
+2024-05-30 16:55:15.443 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.html [3ms]
+2024-05-30 16:55:54.650 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-30 16:55:56.554 [info] > git show --textconv :src/app/components/dashboard/dashboard.component.html [28ms]
+2024-05-30 16:55:56.587 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.html [35ms]
+2024-05-30 16:56:03.484 [info] > git show --textconv :src/app/components/dashboard/dashboard.component.ts [18ms]
+2024-05-30 16:56:03.489 [info] > git ls-files --stage -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts [7ms]
+2024-05-30 17:02:36.070 [info] No remotes found in the git config file.
+2024-05-30 17:02:36.072 [info] > git config --get commit.template [16ms]
+2024-05-30 17:02:36.079 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2024-05-30 17:02:36.098 [info] > git status -z -uall [9ms]
+2024-05-30 17:02:41.138 [info] > git config --get commit.template [5ms]
+2024-05-30 17:02:41.175 [info] No remotes found in the git config file.
+2024-05-30 17:02:41.177 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2024-05-30 17:02:41.196 [info] > git status -z -uall [7ms]
+2024-05-30 17:03:25.172 [info] No remotes found in the git config file.
+2024-05-30 17:03:25.174 [info] > git config --get commit.template [9ms]
+2024-05-30 17:03:25.177 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-30 17:03:25.187 [info] > git status -z -uall [3ms]
+2024-05-30 17:03:55.168 [info] No remotes found in the git config file.
+2024-05-30 17:03:55.170 [info] > git config --get commit.template [10ms]
+2024-05-30 17:03:55.171 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-30 17:03:55.183 [info] > git status -z -uall [5ms]
+2024-05-30 17:04:00.203 [info] > git config --get commit.template [3ms]
+2024-05-30 17:04:00.208 [info] No remotes found in the git config file.
+2024-05-30 17:04:00.211 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-30 17:04:00.219 [info] > git status -z -uall [3ms]
+2024-05-30 17:04:19.208 [info] No remotes found in the git config file.
+2024-05-30 17:04:19.212 [info] > git config --get commit.template [13ms]
+2024-05-30 17:04:19.212 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-30 17:04:19.221 [info] > git status -z -uall [3ms]
+2024-05-30 17:04:40.848 [info] No remotes found in the git config file.
+2024-05-30 17:04:40.856 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [45ms]
+2024-05-30 17:04:40.857 [info] > git config --get commit.template [75ms]
+2024-05-30 17:04:40.893 [info] > git status -z -uall [16ms]

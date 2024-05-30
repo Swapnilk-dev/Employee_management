@@ -1,0 +1,6 @@
+[Info  - 15:57:18] Angular language server process ID: 16926
+[Info  - 15:57:18] Imported typescript/lib/tsserverlibrary is version 5.4.5.
+[Info  - 15:57:19] Using @angular/language-service v18.0.0 from /root/.vscode/extensions/angular.ng-template-18.0.0/node_modules/@angular/language-service/index.js
+[Info  - 15:57:19] Logging is turned off. To enable, run command 'Open Angular server log'.
+[Info  - 15:57:28] Enabling language service for /home/swap/Desktop/employee-management/employee-management-frontend/tsconfig.json.
+[Info  - 16:29:20] Disabling language service for /home/swap/Desktop/employee-management/employee-management-frontend/node_modules/rxjs/tsconfig.json because project is not an Angular project ('@angular/core' could not be found).

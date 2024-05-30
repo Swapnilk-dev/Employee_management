@@ -1,0 +1,39 @@
+2024-05-30 15:57:13.756 [info] Extension host with pid 16864 started
+2024-05-30 15:57:13.756 [info] Skipping acquiring lock for /home/swap/Desktop/employee-management/~/.vscode-root/User/workspaceStorage/e9f4795a7edd7618e3548fc287e795be.
+2024-05-30 15:57:14.050 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-30 15:57:14.065 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+2024-05-30 15:57:14.125 [info] ExtensionService#_doActivateExtension Angular.ng-template, startup: false, activationEvent: 'onLanguage:typescript'
+2024-05-30 15:57:15.355 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-30 15:57:15.368 [info] ExtensionService#_doActivateExtension Blackboxapp.blackbox, startup: true, activationEvent: '*'
+2024-05-30 15:57:16.060 [info] ExtensionService#_doActivateExtension HookyQR.beautify, startup: true, activationEvent: '*'
+2024-05-30 15:57:16.206 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2024-05-30 15:57:16.222 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-05-30 15:57:16.604 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-30 15:57:16.689 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-30 15:57:17.425 [info] Eager extensions activated
+2024-05-30 15:57:17.624 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 15:57:17.637 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 15:57:17.677 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 15:57:17.753 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 15:57:17.920 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 15:57:18.202 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 15:57:18.428 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 15:57:18.490 [info] ExtensionService#_doActivateExtension waderyan.gitblame, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 15:57:19.662 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-05-30 16:33:27.325 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-05-30 16:53:26.704 [error] TypeError: Cannot read properties of undefined (reading 'save')
+    at Timeout._onTimeout (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:927:24)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-05-30 16:53:44.487 [error] TypeError: Cannot read properties of undefined (reading 'save')
+    at Timeout._onTimeout (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:927:24)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-05-30 16:53:51.729 [error] TypeError: Cannot read properties of undefined (reading 'save')
+    at Timeout._onTimeout (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:927:24)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-05-30 16:53:55.632 [error] TypeError: Cannot read properties of undefined (reading 'save')
+    at Timeout._onTimeout (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:927:24)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)

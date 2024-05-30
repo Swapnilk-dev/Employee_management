@@ -1,0 +1,6 @@
+2024-05-30 12:10:19.164 [info] update#setState idle
+2024-05-30 12:10:24.675 [error] Blocked vscode-webview request vscode-webview://1vuiqkthdpq173cfqt3jaddvfsd0m00766ft8t2d1jnue3r4188v/index.html?id=1e6054ec-57ff-4e3e-928c-32a3c6db9477&origin=1e6054ec-57ff-4e3e-928c-32a3c6db9477&swVersion=4&extensionId=&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app
+2024-05-30 12:10:35.152 [info] Extension host with pid 22556 exited with code: 0, signal: unknown.
+2024-05-30 12:10:48.734 [info] update#setState checking for updates
+2024-05-30 12:10:48.739 [info] update#setState idle
+2024-05-30 12:28:45.017 [warning] No ptyHost heartbeat after 6 seconds

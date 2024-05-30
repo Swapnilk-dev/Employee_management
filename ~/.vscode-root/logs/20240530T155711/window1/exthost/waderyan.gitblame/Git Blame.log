@@ -1,0 +1,274 @@
+2024-05-30 15:57:19.373 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:57:19.373 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:57:19.373 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/app.component.ts
+2024-05-30 15:57:19.373 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/app.component.ts"
+2024-05-30 15:57:25.587 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:57:25.622 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:57:25.635 [error] Error: Command failed: git rev-parse --absolute-git-dir
+fatal: not a git repository (or any of the parent directories): .git
+
+    at ChildProcess.exithandler (node:child_process:423:12)
+    at ChildProcess.emit (node:events:517:28)
+    at maybeClose (node:internal/child_process:1098:16)
+    at Socket.<anonymous> (node:internal/child_process:450:11)
+    at Socket.emit (node:events:517:28)
+    at Pipe.<anonymous> (node:net:350:12)
+2024-05-30 15:57:25.644 [error] Error: Command failed: git rev-parse --absolute-git-dir
+fatal: not a git repository (or any of the parent directories): .git
+
+    at ChildProcess.exithandler (node:child_process:423:12)
+    at ChildProcess.emit (node:events:517:28)
+    at maybeClose (node:internal/child_process:1098:16)
+    at Socket.<anonymous> (node:internal/child_process:450:11)
+    at Socket.emit (node:events:517:28)
+    at Pipe.<anonymous> (node:net:350:12)
+2024-05-30 15:57:25.644 [info] Will not blame '/home/swap/Desktop/employee-management/server/employeeController.js'. Not in a git repository.
+2024-05-30 15:57:29.567 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:57:29.587 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:57:29.625 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/app-routing.module.ts
+2024-05-30 15:57:29.642 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/app-routing.module.ts"
+2024-05-30 15:57:31.369 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:57:31.412 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:57:31.451 [error] Error: Command failed: git rev-parse --absolute-git-dir
+fatal: not a git repository (or any of the parent directories): .git
+
+    at ChildProcess.exithandler (node:child_process:423:12)
+    at ChildProcess.emit (node:events:517:28)
+    at maybeClose (node:internal/child_process:1098:16)
+    at Socket.<anonymous> (node:internal/child_process:450:11)
+    at Socket.emit (node:events:517:28)
+    at Pipe.<anonymous> (node:net:350:12)
+2024-05-30 15:57:31.451 [info] Will not blame '/home/swap/Desktop/employee-management/server/routes/employeeRoutes.js'. Not in a git repository.
+2024-05-30 15:57:31.453 [error] Error: Command failed: git rev-parse --absolute-git-dir
+fatal: not a git repository (or any of the parent directories): .git
+
+    at ChildProcess.exithandler (node:child_process:423:12)
+    at ChildProcess.emit (node:events:517:28)
+    at maybeClose (node:internal/child_process:1098:16)
+    at Socket.<anonymous> (node:internal/child_process:450:11)
+    at Socket.emit (node:events:517:28)
+    at Pipe.<anonymous> (node:net:350:12)
+2024-05-30 15:57:59.691 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:57:59.711 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:57:59.761 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 15:57:59.774 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 15:58:03.251 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:58:03.262 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:58:03.308 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.model.ts
+2024-05-30 15:58:03.314 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.model.ts"
+2024-05-30 15:58:27.910 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:58:27.924 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 15:58:27.930 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 15:58:28.106 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:58:28.120 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 15:58:28.124 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 15:58:28.390 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:58:28.460 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 15:58:28.483 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 15:58:29.268 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:58:29.279 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 15:58:29.282 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 15:58:29.495 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:58:29.507 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 15:58:29.510 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 15:58:29.695 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:58:29.706 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 15:58:29.710 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 15:59:04.212 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:59:04.221 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 15:59:04.223 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 15:59:04.401 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:59:04.410 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 15:59:04.411 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 15:59:27.635 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:59:27.644 [info] git rev-parse --absolute-git-dir
+2024-05-30 15:59:27.671 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-create/employee-create.component.ts
+2024-05-30 15:59:27.680 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-create/employee-create.component.ts"
+2024-05-30 16:00:06.641 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:00:06.660 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 16:00:06.663 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 16:00:06.839 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:00:06.851 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 16:00:06.854 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 16:00:07.017 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:00:07.030 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 16:00:07.034 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 16:00:07.192 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:00:07.205 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 16:00:07.208 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 16:00:07.371 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:00:07.380 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 16:00:07.382 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 16:00:07.551 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:00:07.560 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 16:00:07.561 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 16:00:07.722 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:00:07.730 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 16:00:07.733 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 16:00:16.574 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:00:16.585 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 16:00:16.589 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 16:02:10.246 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:02:10.261 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:02:10.298 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts
+2024-05-30 16:02:10.306 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts"
+2024-05-30 16:02:44.547 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:02:44.561 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts
+2024-05-30 16:02:44.573 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts"
+2024-05-30 16:03:42.125 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:03:42.168 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 16:03:42.202 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 16:03:42.433 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:03:42.464 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 16:03:42.475 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 16:03:42.569 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:03:42.603 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 16:03:42.605 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 16:03:42.693 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:03:42.706 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 16:03:42.711 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 16:04:33.604 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:04:33.624 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts
+2024-05-30 16:04:33.643 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts"
+2024-05-30 16:09:18.864 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:09:18.965 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts
+2024-05-30 16:09:18.996 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts"
+2024-05-30 16:09:19.231 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:09:19.290 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts
+2024-05-30 16:09:19.300 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts"
+2024-05-30 16:09:19.332 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:09:19.341 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts
+2024-05-30 16:09:19.343 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts"
+2024-05-30 16:30:30.887 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:30:30.902 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts
+2024-05-30 16:30:30.913 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts"
+2024-05-30 16:33:27.111 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:33:27.119 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:33:27.136 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.html
+2024-05-30 16:33:27.143 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.html"
+2024-05-30 16:39:24.771 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:39:24.790 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 16:39:24.794 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 16:39:41.042 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:39:41.059 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts
+2024-05-30 16:39:41.060 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts"
+2024-05-30 16:39:41.816 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:39:41.977 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts
+2024-05-30 16:39:42.005 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts"
+2024-05-30 16:44:33.528 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:44:33.616 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:44:33.875 [error] Error: Command failed: git rev-parse --absolute-git-dir
+fatal: not a git repository (or any of the parent directories): .git
+
+    at ChildProcess.exithandler (node:child_process:423:12)
+    at ChildProcess.emit (node:events:517:28)
+    at maybeClose (node:internal/child_process:1098:16)
+    at Socket.<anonymous> (node:internal/child_process:450:11)
+    at Socket.emit (node:events:517:28)
+    at Pipe.<anonymous> (node:net:350:12)
+2024-05-30 16:44:33.878 [info] Will not blame '/home/swap/Desktop/employee-management/server/server.js'. Not in a git repository.
+2024-05-30 16:44:33.888 [error] Error: Command failed: git rev-parse --absolute-git-dir
+fatal: not a git repository (or any of the parent directories): .git
+
+    at ChildProcess.exithandler (node:child_process:423:12)
+    at ChildProcess.emit (node:events:517:28)
+    at maybeClose (node:internal/child_process:1098:16)
+    at Socket.<anonymous> (node:internal/child_process:450:11)
+    at Socket.emit (node:events:517:28)
+    at Pipe.<anonymous> (node:net:350:12)
+2024-05-30 16:44:55.449 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:44:55.457 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:44:55.471 [error] Error: Command failed: git rev-parse --absolute-git-dir
+fatal: not a git repository (or any of the parent directories): .git
+
+    at ChildProcess.exithandler (node:child_process:423:12)
+    at ChildProcess.emit (node:events:517:28)
+    at maybeClose (node:internal/child_process:1098:16)
+    at Socket.<anonymous> (node:internal/child_process:450:11)
+    at Socket.emit (node:events:517:28)
+    at Pipe.<anonymous> (node:net:350:12)
+2024-05-30 16:44:55.471 [info] Will not blame '/home/swap/Desktop/employee-management/server/db.js'. Not in a git repository.
+2024-05-30 16:44:55.472 [error] Error: Command failed: git rev-parse --absolute-git-dir
+fatal: not a git repository (or any of the parent directories): .git
+
+    at ChildProcess.exithandler (node:child_process:423:12)
+    at ChildProcess.emit (node:events:517:28)
+    at maybeClose (node:internal/child_process:1098:16)
+    at Socket.<anonymous> (node:internal/child_process:450:11)
+    at Socket.emit (node:events:517:28)
+    at Pipe.<anonymous> (node:net:350:12)
+2024-05-30 16:45:24.096 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:45:24.107 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:45:24.148 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/app.module.ts
+2024-05-30 16:45:24.157 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/app.module.ts"
+2024-05-30 16:45:28.568 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:45:28.591 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/app.component.ts
+2024-05-30 16:45:28.597 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/app.component.ts"
+2024-05-30 16:45:30.471 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:45:30.509 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/app-routing.module.ts
+2024-05-30 16:45:30.523 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/app-routing.module.ts"
+2024-05-30 16:53:39.700 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:53:39.732 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts
+2024-05-30 16:53:39.742 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/services/employee.service.ts"
+2024-05-30 16:53:45.663 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:53:45.680 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts
+2024-05-30 16:53:45.685 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts"
+2024-05-30 16:53:56.285 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:53:56.305 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts
+2024-05-30 16:53:56.324 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts"
+2024-05-30 16:54:00.074 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:54:00.135 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts
+2024-05-30 16:54:00.140 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.ts"
+2024-05-30 16:54:05.147 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:54:05.186 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.html
+2024-05-30 16:54:05.235 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.html"
+2024-05-30 16:54:12.430 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:54:12.500 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.html
+2024-05-30 16:54:12.513 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/employee-list/employee-list.component.html"
+2024-05-30 16:55:56.213 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:55:56.221 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:55:56.236 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.html
+2024-05-30 16:55:56.244 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.html"
+2024-05-30 16:56:03.129 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:56:03.151 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:56:03.166 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts
+2024-05-30 16:56:03.178 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts"
+2024-05-30 16:59:25.305 [info] git rev-parse --absolute-git-dir
+2024-05-30 16:59:25.332 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts
+2024-05-30 16:59:25.345 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts"
+2024-05-30 17:02:14.640 [info] git rev-parse --absolute-git-dir
+2024-05-30 17:02:14.677 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts
+2024-05-30 17:02:14.689 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts"
+2024-05-30 17:02:36.395 [info] git rev-parse --absolute-git-dir
+2024-05-30 17:02:36.409 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts
+2024-05-30 17:02:36.422 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts"
+2024-05-30 17:03:22.036 [info] git rev-parse --absolute-git-dir
+2024-05-30 17:03:22.049 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts
+2024-05-30 17:03:22.054 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts"
+2024-05-30 17:03:23.086 [info] git rev-parse --absolute-git-dir
+2024-05-30 17:03:23.119 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts
+2024-05-30 17:03:23.125 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts"
+2024-05-30 17:03:23.279 [info] git rev-parse --absolute-git-dir
+2024-05-30 17:03:23.292 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts
+2024-05-30 17:03:23.297 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts"
+2024-05-30 17:03:23.389 [info] git rev-parse --absolute-git-dir
+2024-05-30 17:03:23.409 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts
+2024-05-30 17:03:23.414 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts"
+2024-05-30 17:03:23.589 [info] git rev-parse --absolute-git-dir
+2024-05-30 17:03:23.616 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts
+2024-05-30 17:03:23.626 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts"
+2024-05-30 17:03:23.803 [info] git rev-parse --absolute-git-dir
+2024-05-30 17:03:23.826 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts
+2024-05-30 17:03:23.838 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts"
+2024-05-30 17:03:24.003 [info] git rev-parse --absolute-git-dir
+2024-05-30 17:03:24.015 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts
+2024-05-30 17:03:24.021 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts"
+2024-05-30 17:03:54.123 [info] git rev-parse --absolute-git-dir
+2024-05-30 17:03:54.139 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts
+2024-05-30 17:03:54.149 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts"
+2024-05-30 17:04:16.787 [info] git rev-parse --absolute-git-dir
+2024-05-30 17:04:16.811 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts
+2024-05-30 17:04:16.820 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts"
+2024-05-30 17:04:19.489 [info] git rev-parse --absolute-git-dir
+2024-05-30 17:04:19.500 [info] git blame -C --incremental -- /home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts
+2024-05-30 17:04:19.506 [info] Blamed "/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/dashboard/dashboard.component.ts"

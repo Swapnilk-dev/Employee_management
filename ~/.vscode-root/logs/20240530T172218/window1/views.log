@@ -1,0 +1,15 @@
+2024-05-30 17:22:24.414 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2024-05-30 17:22:24.414 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-05-30 17:22:24.414 [info] Added views:terminal in terminal
+2024-05-30 17:22:24.414 [info] Added views:outline in workbench.view.explorer
+2024-05-30 17:22:24.414 [info] Added views:workbench.scm in workbench.view.scm
+2024-05-30 17:22:24.414 [info] Added views:workbench.view.search in workbench.view.search
+2024-05-30 17:22:24.414 [info] Added views:timeline in workbench.view.explorer
+2024-05-30 17:22:24.414 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2024-05-30 17:22:25.855 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2024-05-30 17:22:26.488 [info] Added views:blackbox-onboarding in workbench.view.extension.blackbox
+2024-05-30 17:22:26.488 [info] Added views:thunder-client-sidebar in workbench.view.extension.thunder-client
+2024-05-30 17:22:26.493 [info] Added views:workbench.panel.chat.view.copilot in workbench.panel.chatSidebar
+2024-05-30 17:22:27.376 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-05-30 17:22:36.038 [info] Added views:terminal.search.view in workbench.view.extension.blackbox-terminal
+2024-05-30 17:22:52.161 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer

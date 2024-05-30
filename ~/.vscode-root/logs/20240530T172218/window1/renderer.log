@@ -1,0 +1,14 @@
+2024-05-30 17:22:22.476 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 42ms.
+2024-05-30 17:22:22.717 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 64ms.
+2024-05-30 17:22:22.793 [warning] Creation of workbench contribution 'workbench.contrib.chatExtensionPointHandler' took 30ms.
+2024-05-30 17:22:24.855 [info] Started local extension host with pid 4340.
+2024-05-30 17:22:25.982 [error] Extension 'github.copilot-chat' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): extensionsAny, newSymbolNamesProvider, interactive, chatProvider, codeActionAI, findTextInFiles, findFiles2, textSearchProvider, terminalDataWriteEvent, terminalExecuteCommandEvent, terminalSelection, terminalQuickFixProvider, mappedEditsProvider, aiRelatedInformation, chatParticipant, chatParticipantAdditions, defaultChatParticipant, chatVariableResolver, contribSourceControlInputBoxMenu, authLearnMore, testObserver, aiTextSearchProvider
+product.json (WINS): interactive, terminalDataWriteEvent, terminalExecuteCommandEvent, terminalSelection, terminalQuickFixProvider, chatParticipant, chatParticipantAdditions, defaultChatParticipant, chatVariableResolver, chatProvider, mappedEditsProvider, aiRelatedInformation, codeActionAI, findTextInFiles, textSearchProvider, contribSourceControlInputBoxMenu, newSymbolNamesProvider, findFiles2, extensionsAny, authLearnMore, testObserver
+2024-05-30 17:22:26.178 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by Blackbox AI Code Generation, Code Chat, Code Search (Blackboxapp.blackbox)
+2024-05-30 17:22:33.235 [info] Extension host (LocalProcess pid: 4340) is unresponsive.
+2024-05-30 17:22:35.990 [info] Extension host (LocalProcess pid: 4340) is responsive.
+2024-05-30 17:22:43.676 [error] [sylvesteraswin.hlwd-vscode-react]: Unknown language in `contributes.hlwd-vscode-react.language`. Provided value: jsx
+2024-05-30 17:22:53.880 [info] [perf] Render performance baseline is 171ms
+2024-05-30 17:22:56.429 [error] [Extension Host] [extension] You are not signed in to GitHub. Please sign in to use Copilot.
+2024-05-30 17:23:04.574 [error] [Extension Host] EAI_AGAIN

@@ -1,0 +1,83 @@
+2024-05-30 12:10:21.723 [info] Started local extension host with pid 22556.
+2024-05-30 12:10:22.997 [error] Extension 'github.copilot-chat' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): extensionsAny, newSymbolNamesProvider, interactive, chatProvider, codeActionAI, findTextInFiles, findFiles2, textSearchProvider, terminalDataWriteEvent, terminalExecuteCommandEvent, terminalSelection, terminalQuickFixProvider, mappedEditsProvider, aiRelatedInformation, chatParticipant, chatParticipantAdditions, defaultChatParticipant, chatVariableResolver, contribSourceControlInputBoxMenu, authLearnMore, testObserver, aiTextSearchProvider
+product.json (WINS): interactive, terminalDataWriteEvent, terminalExecuteCommandEvent, terminalSelection, terminalQuickFixProvider, chatParticipant, chatParticipantAdditions, defaultChatParticipant, chatVariableResolver, chatProvider, mappedEditsProvider, aiRelatedInformation, codeActionAI, findTextInFiles, textSearchProvider, contribSourceControlInputBoxMenu, newSymbolNamesProvider, findFiles2, extensionsAny, authLearnMore, testObserver
+2024-05-30 12:10:23.120 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by Blackbox AI Code Generation, Code Chat, Code Search (Blackboxapp.blackbox)
+2024-05-30 12:10:23.156 [error] [sylvesteraswin.hlwd-vscode-react]: Unknown language in `contributes.hlwd-vscode-react.language`. Provided value: jsx
+2024-05-30 12:10:25.468 [info] [perf] Render performance baseline is 110ms
+2024-05-30 12:10:27.253 [error] [Extension Host] [extension] You are not signed in to GitHub. Please sign in to use Copilot.
+2024-05-30 12:10:33.586 [info] Started local extension host with pid 22670.
+2024-05-30 12:10:33.648 [error] Extension 'github.copilot-chat' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): extensionsAny, newSymbolNamesProvider, interactive, chatProvider, codeActionAI, findTextInFiles, findFiles2, textSearchProvider, terminalDataWriteEvent, terminalExecuteCommandEvent, terminalSelection, terminalQuickFixProvider, mappedEditsProvider, aiRelatedInformation, chatParticipant, chatParticipantAdditions, defaultChatParticipant, chatVariableResolver, contribSourceControlInputBoxMenu, authLearnMore, testObserver, aiTextSearchProvider
+product.json (WINS): interactive, terminalDataWriteEvent, terminalExecuteCommandEvent, terminalSelection, terminalQuickFixProvider, chatParticipant, chatParticipantAdditions, defaultChatParticipant, chatVariableResolver, chatProvider, mappedEditsProvider, aiRelatedInformation, codeActionAI, findTextInFiles, textSearchProvider, contribSourceControlInputBoxMenu, newSymbolNamesProvider, findFiles2, extensionsAny, authLearnMore, testObserver
+2024-05-30 12:10:34.654 [error] [sylvesteraswin.hlwd-vscode-react]: Unknown language in `contributes.hlwd-vscode-react.language`. Provided value: jsx
+2024-05-30 12:10:37.130 [info] [perf] Render performance baseline is 93ms
+2024-05-30 12:10:37.824 [error] Extension 'github.copilot-chat' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): extensionsAny, newSymbolNamesProvider, interactive, chatProvider, codeActionAI, findTextInFiles, findFiles2, textSearchProvider, terminalDataWriteEvent, terminalExecuteCommandEvent, terminalSelection, terminalQuickFixProvider, mappedEditsProvider, aiRelatedInformation, chatParticipant, chatParticipantAdditions, defaultChatParticipant, chatVariableResolver, contribSourceControlInputBoxMenu, authLearnMore, testObserver, aiTextSearchProvider
+product.json (WINS): interactive, terminalDataWriteEvent, terminalExecuteCommandEvent, terminalSelection, terminalQuickFixProvider, chatParticipant, chatParticipantAdditions, defaultChatParticipant, chatVariableResolver, chatProvider, mappedEditsProvider, aiRelatedInformation, codeActionAI, findTextInFiles, textSearchProvider, contribSourceControlInputBoxMenu, newSymbolNamesProvider, findFiles2, extensionsAny, authLearnMore, testObserver
+2024-05-30 12:10:37.852 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by Blackbox AI Code Generation, Code Chat, Code Search (Blackboxapp.blackbox)
+2024-05-30 12:10:40.230 [error] [Extension Host] [extension] You are not signed in to GitHub. Please sign in to use Copilot.
+2024-05-30 12:28:45.770 [info] Extension host (LocalProcess pid: 22670) is unresponsive.
+2024-05-30 12:28:45.835 [info] Extension host (LocalProcess pid: 22670) is responsive.
+2024-05-30 12:28:46.124 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-05-30 12:28:50.691 [info] Extension host (LocalProcess pid: 22670) is unresponsive.
+2024-05-30 12:28:50.833 [info] Extension host (LocalProcess pid: 22670) is responsive.
+2024-05-30 12:28:50.834 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-05-30 12:28:51.329 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-05-30 12:28:51.468 [error] Error: Aborted onWillSaveTextDocument-event after 1750ms
+    at vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1725:12424
+2024-05-30 12:33:11.830 [error] Unable to read file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/services/employee.service' (Error: Unable to resolve nonexistent file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/services/employee.service'): Error: Unable to read file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/services/employee.service' (Error: Unable to resolve nonexistent file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/services/employee.service')
+    at s.F (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:20063)
+    at s.D (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:19858)
+    at async a.M (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:42594)
+    at async a.readStream (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:42351)
+    at async T.Cb (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:15142)
+    at async T.resolve (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:13589)
+    at async r.W (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:38744)
+    at async d.r (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:27247)
+    at async k.acquire (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:37:3350)
+    at async f.createModelReference (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:28824)
+2024-05-30 12:33:51.706 [error] Unable to read file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/models/employee.model' (Error: Unable to resolve nonexistent file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/models/employee.model'): Error: Unable to read file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/models/employee.model' (Error: Unable to resolve nonexistent file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/models/employee.model')
+    at s.F (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:20063)
+    at s.D (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:19858)
+    at async a.M (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:42594)
+    at async a.readStream (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:42351)
+    at async T.Cb (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:15142)
+    at async T.resolve (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:13589)
+    at async r.W (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:38744)
+    at async d.r (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:27247)
+    at async k.acquire (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:37:3350)
+    at async f.createModelReference (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:28824)
+2024-05-30 12:33:54.494 [error] Unable to read file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/models/employee.model' (Error: Unable to resolve nonexistent file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/models/employee.model'): Error: Unable to read file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/models/employee.model' (Error: Unable to resolve nonexistent file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/models/employee.model')
+    at s.F (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:20063)
+    at s.D (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:19858)
+    at async a.M (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:42594)
+    at async a.readStream (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:42351)
+    at async T.Cb (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:15142)
+    at async T.resolve (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:13589)
+    at async r.W (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:38744)
+    at async d.r (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:27247)
+    at async k.acquire (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:37:3350)
+    at async f.createModelReference (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:28824)
+2024-05-30 12:35:42.271 [error] Unable to read file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/services/employee.model' (Error: Unable to resolve nonexistent file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/services/employee.model'): Error: Unable to read file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/services/employee.model' (Error: Unable to resolve nonexistent file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/services/employee.model')
+    at s.F (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:20063)
+    at s.D (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:19858)
+    at async a.M (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:42594)
+    at async a.readStream (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:42351)
+    at async T.Cb (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:15142)
+    at async T.resolve (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:13589)
+    at async r.W (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:38744)
+    at async d.r (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:27247)
+    at async k.acquire (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:37:3350)
+    at async f.createModelReference (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:28824)
+2024-05-30 12:37:26.429 [error] Unable to read file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/services/employee.service' (Error: Unable to resolve nonexistent file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/services/employee.service'): Error: Unable to read file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/services/employee.service' (Error: Unable to resolve nonexistent file '/home/swap/Desktop/employee-management/employee-management-frontend/src/app/components/services/employee.service')
+    at s.F (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:20063)
+    at s.D (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:19858)
+    at async a.M (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:42594)
+    at async a.readStream (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:42351)
+    at async T.Cb (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:15142)
+    at async T.resolve (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:13589)
+    at async r.W (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:38744)
+    at async d.r (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:27247)
+    at async k.acquire (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:37:3350)
+    at async f.createModelReference (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2190:28824)

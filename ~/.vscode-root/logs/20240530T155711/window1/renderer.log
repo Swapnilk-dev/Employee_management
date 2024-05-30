@@ -1,0 +1,8 @@
+2024-05-30 15:57:13.198 [info] Started local extension host with pid 16864.
+2024-05-30 15:57:13.301 [error] Extension 'github.copilot-chat' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): extensionsAny, newSymbolNamesProvider, interactive, chatProvider, codeActionAI, findTextInFiles, findFiles2, textSearchProvider, terminalDataWriteEvent, terminalExecuteCommandEvent, terminalSelection, terminalQuickFixProvider, mappedEditsProvider, aiRelatedInformation, chatParticipant, chatParticipantAdditions, defaultChatParticipant, chatVariableResolver, contribSourceControlInputBoxMenu, authLearnMore, testObserver, aiTextSearchProvider
+product.json (WINS): interactive, terminalDataWriteEvent, terminalExecuteCommandEvent, terminalSelection, terminalQuickFixProvider, chatParticipant, chatParticipantAdditions, defaultChatParticipant, chatVariableResolver, chatProvider, mappedEditsProvider, aiRelatedInformation, codeActionAI, findTextInFiles, textSearchProvider, contribSourceControlInputBoxMenu, newSymbolNamesProvider, findFiles2, extensionsAny, authLearnMore, testObserver
+2024-05-30 15:57:13.392 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by Blackbox AI Code Generation, Code Chat, Code Search (Blackboxapp.blackbox)
+2024-05-30 15:57:15.868 [error] [sylvesteraswin.hlwd-vscode-react]: Unknown language in `contributes.hlwd-vscode-react.language`. Provided value: jsx
+2024-05-30 15:57:20.840 [error] [Extension Host] [extension] You are not signed in to GitHub. Please sign in to use Copilot.
+2024-05-30 15:57:22.759 [info] [perf] Render performance baseline is 217ms

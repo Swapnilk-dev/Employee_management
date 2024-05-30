@@ -1,0 +1,6 @@
+[Info  - 17:22:38] Angular language server process ID: 4432
+[Info  - 17:22:38] Imported typescript/lib/tsserverlibrary is version 5.4.5.
+[Info  - 17:22:38] Using @angular/language-service v18.0.0 from /root/.vscode/extensions/angular.ng-template-18.0.0/node_modules/@angular/language-service/index.js
+[Info  - 17:22:38] Logging is turned off. To enable, run command 'Open Angular server log'.
+[Info  - 17:23:00] Enabling language service for /home/swap/Desktop/employee-management/employee-management-frontend/tsconfig.json.
+[Info  - 17:40:22] Enabling language service for /home/swap/Desktop/employee-management/employee-management-frontend/tsconfig.json.

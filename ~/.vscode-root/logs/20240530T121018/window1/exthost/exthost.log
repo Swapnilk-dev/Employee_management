@@ -1,0 +1,109 @@
+2024-05-30 12:10:23.177 [info] Extension host with pid 22556 started
+2024-05-30 12:10:23.523 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-30 12:10:23.554 [info] ExtensionService#_doActivateExtension Blackboxapp.blackbox, startup: true, activationEvent: '*'
+2024-05-30 12:10:24.066 [info] ExtensionService#_doActivateExtension HookyQR.beautify, startup: true, activationEvent: '*'
+2024-05-30 12:10:24.158 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2024-05-30 12:10:24.220 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-30 12:10:24.360 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-30 12:10:24.838 [info] Eager extensions activated
+2024-05-30 12:10:25.021 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 12:10:25.026 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 12:10:25.098 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 12:10:25.280 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 12:10:25.508 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 12:10:26.163 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 12:10:26.444 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 12:10:26.482 [info] ExtensionService#_doActivateExtension waderyan.gitblame, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 12:10:26.771 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-05-30 12:10:32.199 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-30 12:10:34.681 [info] Extension host with pid 22670 started
+2024-05-30 12:10:34.681 [info] Skipping acquiring lock for /home/swap/Desktop/employee-management/~/.vscode-root/User/workspaceStorage/e9f4795a7edd7618e3548fc287e795be.
+2024-05-30 12:10:34.742 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-05-30 12:10:34.752 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-05-30 12:10:34.971 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-30 12:10:35.144 [info] Eager extensions activated
+2024-05-30 12:10:35.151 [error] Canceled: Canceled
+    at new O (/snap/code/159/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+    at c.U (/snap/code/159/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+    at Proxy.F.<computed>.z.charCodeAt.F.<computed> (/snap/code/159/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+    at r.g (/snap/code/159/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+    at r.executeCommand (/snap/code/159/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at k.registerCommand.description (/snap/code/159/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+    at r.h (/snap/code/159/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+    at r.g (/snap/code/159/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+    at r.executeCommand (/snap/code/159/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at Object.executeCommand (/snap/code/159/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+    at /root/.vscode/extensions/github.copilot-1.197.0/extension/src/auth.ts:138:18
+    at new Promise (<anonymous>)
+    at handleAuthenticationError (/root/.vscode/extensions/github.copilot-1.197.0/extension/src/auth.ts:122:12)
+    at attemptAuthentication (/root/.vscode/extensions/github.copilot-1.197.0/extension/src/auth.ts:86:19)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) setContext undefined
+2024-05-30 12:10:35.151 [info] Extension host with pid 22556 exiting with code 0
+2024-05-30 12:10:35.154 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 12:10:35.159 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 12:10:35.212 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 12:10:35.413 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 12:10:38.184 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-05-30 12:10:38.443 [info] ExtensionService#_doActivateExtension Blackboxapp.blackbox, startup: false, activationEvent: '*'
+2024-05-30 12:10:38.632 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 12:10:38.672 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 12:10:39.038 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 12:10:39.224 [info] ExtensionService#_doActivateExtension HookyQR.beautify, startup: false, activationEvent: '*'
+2024-05-30 12:10:39.258 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: false, activationEvent: '*'
+2024-05-30 12:10:39.484 [info] ExtensionService#_doActivateExtension waderyan.gitblame, startup: false, activationEvent: 'onStartupFinished'
+2024-05-30 12:10:39.527 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-05-30 12:10:40.679 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-05-30 12:10:40.793 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-30 12:23:48.741 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-05-30 12:23:48.815 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-05-30 12:28:35.505 [info] ExtensionService#_doActivateExtension Angular.ng-template, startup: false, activationEvent: 'onLanguage:typescript'
+2024-05-30 12:33:55.368 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-05-30 12:35:40.507 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-05-30 12:44:15.073 [error] TypeError: Cannot read properties of undefined (reading 'save')
+    at Timeout._onTimeout (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:927:24)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-05-30 12:45:40.680 [error] TypeError: Cannot read properties of undefined (reading 'save')
+    at Timeout.<anonymous> (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:927:24)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-05-30 12:45:40.843 [error] TypeError: Cannot read properties of undefined (reading 'save')
+    at Timeout.<anonymous> (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:927:24)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-05-30 12:45:41.001 [error] TypeError: Cannot read properties of undefined (reading 'save')
+    at Timeout.<anonymous> (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:927:24)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-05-30 12:45:41.163 [error] TypeError: Cannot read properties of undefined (reading 'save')
+    at Timeout.<anonymous> (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:927:24)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-05-30 12:45:41.321 [error] TypeError: Cannot read properties of undefined (reading 'save')
+    at Timeout.<anonymous> (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:927:24)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-05-30 12:45:41.489 [error] TypeError: Cannot read properties of undefined (reading 'save')
+    at Timeout.<anonymous> (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:927:24)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-05-30 12:45:41.688 [error] TypeError: Cannot read properties of undefined (reading 'save')
+    at Timeout.<anonymous> (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:927:24)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-05-30 12:45:41.832 [error] TypeError: Cannot read properties of undefined (reading 'save')
+    at Timeout.<anonymous> (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:927:24)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-05-30 12:45:42.016 [error] TypeError: Cannot read properties of undefined (reading 'save')
+    at Timeout.<anonymous> (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:927:24)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-05-30 12:45:42.178 [error] TypeError: Cannot read properties of undefined (reading 'save')
+    at Timeout.<anonymous> (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:927:24)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-05-30 12:45:42.415 [error] TypeError: Cannot read properties of undefined (reading 'save')
+    at Timeout._onTimeout (/root/.vscode/extensions/blackboxapp.blackbox-1.3.48/out/extension.js:927:24)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
